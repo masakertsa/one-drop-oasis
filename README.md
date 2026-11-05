@@ -7,7 +7,7 @@ This project introduces a fully autonomous, low-cost biological innovation desig
 The module is installed vertically into the terrain to optimize the local microclimate and eliminate water evaporation:
 
 *   **Surface Layer (0 cm):** The ground surface is covered with a layer of crushed volcanic **basalt**. This acts as a mechanical moisture barrier (mulching) that prevents the sun from baking the sand, drastically reducing evaporation. Over time, it slowly dissolves to remineralize the soil with essential micronutrients (magnesium, iron, calcium).
-*   **Intermediate Layer (0–40 cm):** A vertical, hollow **bamboo pipe** equipped with directional notches and a protective cap. The pipe functions as a passive atmospheric water condenser: during the cold desert nights, ambient humidity专condenses on the pipe walls (sweating effect) and drains through the notches directly past the parched surface sand into the deeper root zone.
+*   **Intermediate Layer (0–40 cm):** A vertical, hollow **bamboo pipe** equipped with directional notches and a protective cap. The pipe functions as a passive atmospheric water condenser: during the cold desert nights, ambient humidity condenses on the pipe walls (sweating effect) and drains through the notches directly past the parched surface sand into the deeper root zone.
 *   **Subsurface Base (40 cm):** A subterranean, square-shaped bamboo pipe manifold. Positioned at the corner connection joints are hollow **gypsum balls (12 mm wall thickness, 25 cm outer diameter)**.
 
 ## 🧬 Biological Ecosystem & 6L Nutrient Reservoir
