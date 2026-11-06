@@ -3,6 +3,26 @@
 This project introduces a fully autonomous, low-cost biological innovation designed to combat desertification. Operating entirely without electricity, plastics, or complex grid-tied irrigation systems, the module leverages the laws of physics, diurnal temperature variations, and biodegradable materials to create permanent, self-sustaining green oases in extreme arid environments.
 
 ## 🛠️ Mechanical Architecture & Stratigraphy
+```mermaid
+graph TD
+    subgraph Surface Layer (0 cm)
+        A[Basalt Mulch] -->|Prevents evaporation & remineralizes| B[Sand Surface]
+        E[Aloe Vera & Rose of Jericho] -->|Roots stabilize| B
+    end
+
+    subgraph Intermediate Layer (0 - 40 cm)
+        C[Vertical Bamboo Pipe] -->|Night condensation flows| D[Directly to root zone via notches]
+    end
+
+    subgraph Subsurface Base (40 cm)
+        F[Horizontal Bamboo Manifold] --> G[Gypsum Balls 6L Reservoir]
+        G -->|Slow dissolution| H[NPK Nutrients & Composted Biomass]
+    end
+
+    style A fill:#85929E,stroke:#333,stroke-width:2px
+    style C fill:#85C1E9,stroke:#333,stroke-width:2px
+    style G fill:#F9E79F,stroke:#333,stroke-width:2px
+```
 
 The module is installed vertically into the terrain to optimize the local microclimate and eliminate water evaporation:
 
@@ -18,6 +38,18 @@ The module is installed vertically into the terrain to optimize the local microc
 *   In tandem, a resurrection plant species like the **Rose of Jericho** (*Selaginella lepidophylla*) is introduced. It survives droughts by rolling into a dormant ball but revives and turns green within hours of receiving night-time condensation. Its roots physically lock the basalt mulch and topsoil against wind erosion.
 
 ## 🔄 Lifecycle and Modular "Hands-Free" Maintenance
+```mermaid
+graph TD
+    Start([Module Installation]) --> Day[Day: Basalt shields from intense UV & heat]
+    Day --> Night[Night: Temp drops, moisture condenses inside pipe]
+    Night --> Moisture[Moisture activates biomass inside gypsum ball]
+    Moisture --> Growth[Pioneer plants develop deep taproots]
+    Growth --> Years[Over the years: Bamboo & gypsum biodegrade into rich humus]
+    Years --> End([Permanent green oasis established])
+    
+    Moisture -.->|If vertical pipe degrades| Maintenance[Maintenance: Push new bamboo stalk adjacent without excavation]
+    Maintenance --> Night
+```
 
 *   **Zero-Waste Degradation:** The underground bamboo network naturally biodegrades over several years, converting into rich organic humus that permanently heals the desert soil substrate.
 *   **Infinite Serviceability:** If the above-ground vertical pipe degrades under intense UV radiation, repair is completely "hands-free": a new bamboo stalk can simply be pushed through the sand adjacent to the old one without any excavation, automatically tapping into the existing 40 cm moisture zone.
