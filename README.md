@@ -51,8 +51,9 @@ graph TD
     Maintenance --> Night
 ```
 
-*   **Zero-Waste Degradation:** The underground bamboo network naturally biodegrades over several years, converting into rich organic humus that permanently heals the desert soil substrate.
-*   **Infinite Serviceability:** If the above-ground vertical pipe degrades under intense UV radiation, repair is completely "hands-free": a new bamboo stalk can simply be pushed through the sand adjacent to the old one without any excavation, automatically tapping into the existing 40 cm moisture zone.
+- **Zero-Waste Degradation:** Underground bamboo naturally biodegrades over time, enriching and healing the desert soil substrate.
+- **Infinite Serviceability:** If the above-ground pipe degrades from UV light, replacement is completely "hands-free"—a new bamboo stalk is simply pushed through the sand next to the old one without digging, linking directly to the moisture zone.
+- **Precision Maintenance Bypass:** The new pipe is inserted adjacent to the original to protect the underground structure, utilizing lateral capillary action in the soil to reconnect with the active root zone seamlessly.
 
 ## 📄 License
 
