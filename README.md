@@ -5,16 +5,16 @@ This project introduces a fully autonomous, low-cost biological innovation desig
 ## 🛠️ Mechanical Architecture & Stratigraphy
 ```mermaid
 graph TD
-    subgraph Surface Layer (0 cm)
+    subgraph "Surface Layer (0 cm)"
         A[Basalt Mulch] -->|Prevents evaporation & remineralizes| B[Sand Surface]
         E[Aloe Vera & Rose of Jericho] -->|Roots stabilize| B
     end
 
-    subgraph Intermediate Layer (0 - 40 cm)
+    subgraph "Intermediate Layer (0 - 40 cm)"
         C[Vertical Bamboo Pipe] -->|Night condensation flows| D[Directly to root zone via notches]
     end
 
-    subgraph Subsurface Base (40 cm)
+    subgraph "Subsurface Base (40 cm)"
         F[Horizontal Bamboo Manifold] --> G[Gypsum Balls 6L Reservoir]
         G -->|Slow dissolution| H[NPK Nutrients & Composted Biomass]
     end
