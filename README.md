@@ -40,14 +40,14 @@ The module is installed vertically into the terrain to optimize the local microc
 ## 🔄 Lifecycle and Modular "Hands-Free" Maintenance
 ```mermaid
 graph TD
-    Start([Module Installation]) --> Day[Day: Basalt shields from intense UV & heat]
+    Start[Module Installation] --> Day[Day: Basalt shields from intense UV & heat]
     Day --> Night[Night: Temp drops, moisture condenses inside pipe]
     Night --> Moisture[Moisture activates biomass inside gypsum ball]
     Moisture --> Growth[Pioneer plants develop deep taproots]
     Growth --> Years[Over the years: Bamboo & gypsum biodegrade into rich humus]
-    Years --> End([Permanent green oasis established])
+    Years --> End[Permanent green oasis established]
     
-    Moisture -.->|If vertical pipe degrades| Maintenance[Maintenance: Push new bamboo stalk adjacent without excavation]
+    Moisture -->|If vertical pipe degrades| Maintenance[Maintenance: Push new bamboo stalk adjacent without excavation]
     Maintenance --> Night
 ```
 
