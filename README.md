@@ -55,6 +55,14 @@ graph TD
 - **Infinite Serviceability:** If the above-ground pipe degrades from UV light, replacement is completely "hands-free"—a new bamboo stalk is simply pushed through the sand next to the old one without digging, linking directly to the moisture zone.
 - **Precision Maintenance Bypass:** The new pipe is inserted adjacent to the original to protect the underground structure, utilizing lateral capillary action in the soil to reconnect with the active root zone seamlessly.
 
+## 🌬️ Upwind Deployment & Self-Propagating Seed Strategy
+
+To maximize survival rates and accelerate ecological expansion across arid fronts, field deployment follows two wind-aligned biological principles:
+
+- **Upwind-to-Downwind Installation Strategy:** Module installation always begins at the upwind boundary (the slightly more humid edge zone) and progresses sequentially downwind. The established upwind oases act as natural windbreaks that reduce sand abrasion while releasing transpired moisture—creating a humidified microclimate plume that protects newly installed modules downwind.
+- **Protected Seed-Pocket Integration:** Pioneer plant seeds are pre-embedded in a sheltered moisture pocket positioned directly above the 6L gypsum reservoir and beneath the crushed basalt mulch. This shields seeds from extreme surface UV and heat, ensuring germination triggers only after night-time bamboo condensation has accumulated sufficient subsurface moisture.
+- **Autonomous Wind-Driven Propagation:** Once the upwind pioneer plants mature and produce new seeds, prevailing winds automatically carry them downwind into the newly humidified shelter zones—enabling self-sustaining, hands-free vegetation spread beyond the initial module grid.
+
 ## 📄 License
 
 This project is licensed under the **MIT License** – keeping the original architecture credited to the creator.
